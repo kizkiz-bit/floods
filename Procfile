@@ -1,1 +1,1 @@
-worker: python floods.py
+worker: python botted.py
